@@ -37,7 +37,7 @@
 
 ## Overview
 
-![screenshot](/images/waether.PNG)
+![screenshot](/images/weather.PNG)
 
 ### Built With
 
